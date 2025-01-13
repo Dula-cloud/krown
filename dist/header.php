@@ -1,6 +1,6 @@
 <header>
-    <div style="display: flex;">
-        <img class="logoNav" src="Resources/logo.png">
+    <div style="">
+        <img class="logoNav" src="../Resources/logo.png">
     </div>
     <div class="navFirst">
         <ul class="navItemsMain">
