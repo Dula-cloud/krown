@@ -6,12 +6,11 @@
     <title>Krown</title>
     <link rel="stylesheet" href="../styles/style.css"/>
 </head>
-<body class="bg-black">
+<body class="bg-black font-mainfont">
     <?php
         require 'header.php';
     ?>
     
-    <h1 class="bg-red-400">heloo</h1>
     
 
 
